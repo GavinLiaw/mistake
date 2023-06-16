@@ -1,0 +1,3 @@
+[submodule "Djangoproject/Djangoproject/reactfront"]
+	path = Djangoproject/Djangoproject/reactfront
+	url = https://github.com/GavinLiaw/FYP.git
