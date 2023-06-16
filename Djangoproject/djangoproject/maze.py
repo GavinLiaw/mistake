@@ -8,4 +8,5 @@ print(m.maze_map)
 
 m.run()
 
+m.exit()
 
